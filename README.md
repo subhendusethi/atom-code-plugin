@@ -1,5 +1,10 @@
-# sourcefetch package
+<<<<<<< HEAD
+# atom-code-plugin
+Fetches code snippets from stackoverflow for selected text query in your selected language in Atom Text Editor.
 
-A short description of your package.
+npm Dependencies:
+"cheerio": 0.20.0
+"google": 2.0.0
+"request": 2.73.0
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+>>>>>>> 8e3fb484807ab40501dd8c4002ff14560c23d7f6
